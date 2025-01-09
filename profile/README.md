@@ -1,4 +1,4 @@
-![Creative Trees](img/Creative-Trees.png)
+![Creative Trees](../img/Creative-Trees.png)
 
 # Creative Trees
 
