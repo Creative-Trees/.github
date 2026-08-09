@@ -1,0 +1,7 @@
+{
+    "name": "Laravel CI",
+    "description": "Build, konfigurasi environment, dan jalankan test suite untuk aplikasi Laravel/PHP secara otomatis.",
+    "iconName": "laravel",
+    "categories": ["PHP"],
+    "filePatterns": ["composer\\.json$", "artisan$"]
+}
