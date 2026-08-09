@@ -1,31 +1,67 @@
-![Creative Trees](../img/Creative-Trees.png)
+<div align="center">
 
-# Creative Trees
+![Creative Trees Group](../img/Creative-Trees.png)
 
-Selamat Datang di Creative Trees!
+# Creative Trees Group
 
-Creative Trees adalah startup teknologi yang tumbuh dari filosofi kekuatan alam pohon sebagai simbol pertumbuhan, inovasi, dan koneksi yang mengakar kuat. Seperti pohon yang memanjangkan cabangnya ke berbagai arah untuk menjangkau dunia, kami hadir untuk menghubungkan, melindungi, dan mempercepat transformasi digital dengan teknologi terkini.
+**Mitra rekayasa perangkat lunak untuk sistem bisnis yang kritikal — pembayaran, inventori, keuangan, hingga akademik.**
 
-Kami percaya bahwa teknologi tidak hanya berfungsi sebagai alat, tetapi juga sebagai seni yang menyatu dengan kehidupan. Dengan pendekatan yang menyeluruh dan penuh inovasi, Creative Trees menciptakan solusi yang mengutamakan efisiensi, kreativitas, dan keamanan.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## Apa yang Kami Tawarkan?
+</div>
 
-Creative Trees hadir dengan berbagai layanan unggulan untuk menjawab kebutuhan teknologi modern:
+## Tentang Kami
 
-- **Pengembangan Perangkat Lunak**: Kami merancang dan membangun perangkat lunak yang efisien, user-friendly, dan dapat disesuaikan untuk berbagai industri.
-- **Sistem Multimedia yang Canggih**: Dari pengolahan data visual hingga integrasi media, kami menghadirkan solusi multimedia yang memperkuat interaksi dan komunikasi.
-- **Keamanan Siber Terdepan**: Keamanan adalah inti dari setiap solusi kami. Dengan sistem yang terstruktur, kami melindungi data dan infrastruktur teknologi dari ancaman siber yang semakin kompleks.
-- **Jaringan yang Kuat dan Andal**: Kami membangun jaringan yang tangguh dan dapat diandalkan untuk mendukung operasional bisnis dalam skala kecil hingga besar.
+Creative Trees Group adalah tim rekayasa perangkat lunak yang membangun sistem bisnis untuk kebutuhan yang nyata: transaksi yang harus tercatat benar, stok yang harus akurat, dan data yang harus bisa dipercaya. Kami mengutamakan arsitektur yang bersih, kode yang mudah dirawat, dan keamanan sejak tahap desain.
 
-## Filosofi Creative Trees
+## Bidang Keahlian
 
-Nama Creative Trees terinspirasi oleh sifat pohon yang merepresentasikan pertumbuhan, ketahanan, dan inovasi yang terus berkembang.
+Kami mengerjakan sistem lintas domain, dengan fokus utama pada:
 
-- **Akar**: Sebagai fondasi yang kuat, kami mengakar pada kepercayaan dan nilai-nilai inovatif.
-- **Batang**: Melambangkan stabilitas, kami memastikan setiap solusi berdiri kokoh di atas teknologi modern.
-- **Cabang dan Daun**: Menunjukkan pertumbuhan dan ekspansi, kami terus menciptakan teknologi baru untuk menjangkau lebih banyak kebutuhan.
-- **Buah**: Hasil kerja keras kami adalah solusi yang memberikan manfaat nyata bagi dunia digital.
+- **Sistem Pembayaran** — pemrosesan transaksi, rekonsiliasi, dan integrasi payment gateway.
+- **Manajemen Gudang & Inventori** — pelacakan stok, pergudangan, dan rantai pasok.
+- **ERP & Keuangan** — pencatatan keuangan, pelaporan, dan otomasi proses bisnis.
+- **Sistem Informasi Akademik** — manajemen data universitas dan layanan akademik.
+- **Donasi & CMS** — platform donasi serta sistem manajemen konten.
+- **Monitoring Layanan & Tiket** — pemantauan status layanan dan alur tiket dukungan.
 
-Dengan filosofi ini, kami yakin mampu menjadi mitra yang andal untuk membawa Anda menuju masa depan teknologi yang lebih baik.
+## Teknologi yang Kami Pakai
 
-Creative Trees bukan sekadar nama, melainkan sebuah perjalanan bersama menuju inovasi tanpa batas. Kami hadir untuk menjembatani kebutuhan masa kini dengan solusi masa depan, menghubungkan teknologi dan kehidupan dalam harmoni yang sempurna.
+Mayoritas proyek kami dibangun di atas **Laravel/PHP** untuk backend, **Svelte** untuk antarmuka yang cepat dan ringan, serta **Python** untuk skrip pendukung dan otomasi.
+
+## Repositori Pilihan
+
+- **[FinanSphere-Kelola-Keuangan](https://github.com/Creative-Trees/FinanSphere-Kelola-Keuangan)** — aplikasi pengelolaan keuangan.
+- **[Backend-University-Management-System](https://github.com/Creative-Trees/Backend-University-Management-System)** — backend sistem manajemen universitas.
+- **[SGI-X-SPX-Tracker](https://github.com/Creative-Trees/SGI-X-SPX-Tracker)** — sistem pelacakan berbasis PHP.
+- **[Zenith-Maintenance](https://github.com/Creative-Trees/Zenith-Maintenance)** — sistem monitoring dan maintenance.
+
+## Filosofi
+
+Nama Creative Trees terinspirasi dari pohon — simbol pertumbuhan, ketahanan, dan koneksi yang mengakar kuat:
+
+- **Akar** — fondasi kepercayaan dan nilai-nilai yang kami pegang.
+- **Batang** — stabilitas arsitektur dan teknologi yang kami bangun.
+- **Cabang & Daun** — pertumbuhan dan ekspansi ke kebutuhan baru.
+- **Buah** — solusi nyata yang memberi manfaat bagi pengguna.
+
+## Kontribusi & Komunitas
+
+Kami menyambut kontribusi dari siapa pun. Sebelum membuka pull request atau issue, silakan baca:
+
+- [Kode Etik Kontributor](https://github.com/Creative-Trees/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Panduan Berkontribusi](https://github.com/Creative-Trees/.github/blob/main/CONTRIBUTING.md)
+- [Kebijakan Keamanan](https://github.com/Creative-Trees/.github/blob/main/SECURITY.md)
+- [Dukungan & Bantuan](https://github.com/Creative-Trees/.github/blob/main/SUPPORT.md)
+
+## Hubungi Kami
+
+Punya pertanyaan atau ingin berkolaborasi? Hubungi kami melalui teamcreativetrees@gmail.com.
+
+---
+
+<div align="center">
+
+Creative Trees Group — mengakar kuat, tumbuh berkelanjutan.
+
+</div>
