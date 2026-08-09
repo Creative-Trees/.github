@@ -1,0 +1,13 @@
+# CODEOWNERS untuk organisasi Creative Trees
+# Baris di bawah menentukan siapa yang otomatis diminta review
+# ketika ada pull request yang mengubah berkas terkait.
+#
+# Aturan yang cocok paling akhir yang menang, jadi aturan umum
+# diletakkan di atas dan aturan lebih spesifik di bawah.
+
+# Pemilik default untuk seluruh berkas di repositori ini
+*       @Halfirzzha
+
+# Berkas komunitas & konfigurasi organisasi
+/profile/               @Halfirzzha
+/workflow-templates/    @Halfirzzha
