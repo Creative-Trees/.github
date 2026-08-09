@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pertanyaan & Dukungan
+    url: https://github.com/Creative-Trees/.github/blob/main/SUPPORT.md
+    about: Lihat panduan dukungan sebelum membuka issue baru.
+  - name: Laporan Kerentanan Keamanan
+    url: https://github.com/Creative-Trees/.github/blob/main/SECURITY.md
+    about: Jangan laporkan kerentanan keamanan melalui issue publik.
