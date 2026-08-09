@@ -1,0 +1,47 @@
+name: "✨ Permintaan Fitur"
+description: Usulkan ide atau fitur baru untuk proyek ini
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah meluangkan waktu untuk mengusulkan fitur ini. Mohon isi formulir berikut selengkap mungkin agar kami dapat mengevaluasi usulan Anda.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Masalah yang Ingin Diselesaikan
+      description: Jelaskan masalah atau kebutuhan yang melatarbelakangi usulan ini.
+      placeholder: Saat ini saya kesulitan ketika...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solusi yang Diusulkan
+      description: Jelaskan fitur atau perubahan yang Anda usulkan.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatif yang Sudah Dipertimbangkan
+      description: Jelaskan solusi atau pendekatan lain yang sudah Anda pikirkan, jika ada.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Konteks Tambahan
+      description: Tambahkan screenshot, referensi, atau informasi lain yang relevan.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Konfirmasi
+      options:
+        - label: Saya sudah memastikan usulan ini belum pernah diajukan sebelumnya.
+          required: true
+        - label: Saya sudah membaca Panduan Berkontribusi proyek ini.
+          required: true
