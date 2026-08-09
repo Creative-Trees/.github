@@ -1,0 +1,60 @@
+name: "🐛 Laporan Bug"
+description: Laporkan sesuatu yang tidak berjalan sebagaimana mestinya
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah meluangkan waktu untuk melaporkan bug ini. Mohon isi formulir berikut selengkap mungkin agar kami dapat menindaklanjuti dengan cepat.
+  - type: textarea
+    id: description
+    attributes:
+      label: Deskripsi Bug
+      description: Jelaskan bug yang Anda temukan secara singkat dan jelas.
+      placeholder: Jelaskan apa yang terjadi...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Langkah Reproduksi
+      description: Langkah-langkah untuk mereproduksi perilaku ini.
+      placeholder: |
+        1. Buka '...'
+        2. Klik pada '...'
+        3. Scroll ke '...'
+        4. Lihat error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Perilaku yang Diharapkan
+      description: Jelaskan apa yang seharusnya terjadi.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Screenshot atau Log
+      description: Jika memungkinkan, lampirkan screenshot atau log error yang terkait.
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Contoh - OS, browser, atau versi aplikasi yang digunakan.
+      placeholder: "misal: Windows 11, Chrome 126, v1.2.0"
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Konfirmasi
+      options:
+        - label: Saya sudah memastikan bug ini belum pernah dilaporkan sebelumnya.
+          required: true
+        - label: Saya sudah membaca Panduan Berkontribusi proyek ini.
+          required: true
