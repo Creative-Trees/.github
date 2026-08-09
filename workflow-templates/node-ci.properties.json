@@ -1,0 +1,7 @@
+{
+    "name": "Node.js CI",
+    "description": "Install dependency, jalankan linter, build, dan jalankan test untuk proyek Node.js/Svelte secara otomatis.",
+    "iconName": "nodejs",
+    "categories": ["JavaScript"],
+    "filePatterns": ["package\\.json$"]
+}
